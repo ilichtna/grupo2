@@ -1,2 +1,4 @@
 # grupo2
-primer grt en grupo
+primer git en grupo
+ilichtna
+
